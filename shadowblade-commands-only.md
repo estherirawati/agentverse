@@ -1,4 +1,4 @@
-# ShadowBlade 1-Hour Agent — Executable Instructions Only
+# ShadowBlade Executable Instructions Only
 
 All commands and prompts you need to execute, in order. Shell commands go in the terminal. Gemini prompts go inside the `gemini` CLI.
 
