@@ -8,7 +8,7 @@ All commands and prompts you need to execute, in order. Shell commands go in the
 
 ### 1.1 Claim free credit (browser)
 
-Open: <https://goo.gle/agentverse-shdw> → sign in with personal Gmail → accept ToS.
+Open: url from GDG → sign in with personal Gmail → accept ToS.
 
 ### 1.2 Open Cloud Shell (browser)
 
