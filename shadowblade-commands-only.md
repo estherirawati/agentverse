@@ -242,6 +242,10 @@ for ROLE in artifactregistry.admin cloudbuild.builds.editor run.admin \
 done
 ```
 
+```
+sed -i 's|./shadowblade/||g; s|shadowblade/||g' ~/agentverse-developer/shadowblade/Dockerfile
+```
+
 ```bash
 cd ~/agentverse-developer
 gcloud builds submit ./shadowblade \
