@@ -260,6 +260,10 @@ gcloud run deploy my-agent \
   --min-instances=1 \
   --project=${PROJECT_ID}
 ```
+Open this URL in your browser (append /.well-known/agent-card.json to your service URL):
+```bash
+https://my-agent-xxxxx-uc.a.run.app/.well-known/agent-card.json
+```bash
 
 ### 5.2 Clean up
 
